@@ -1,0 +1,29 @@
+.CardBox {
+    width: 80%;
+    border-radius: 10px;
+    background-color: transparent;
+    display: inline-block; 
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 2px ;
+}
+
+.CardBoxName {
+    text-align: start;
+}
+
+.AmenitiesDiv {
+    text-align: start;
+}
+
+.CardBoxDescription {
+    text-align: justify;
+}
+
+.ShowMore {
+    background-color: transparent;
+}
+
+.LessInfo {
+    display: none;
+}
